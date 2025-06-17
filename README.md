@@ -27,19 +27,13 @@
 7. 📦 [Assets](#assets)
 8. 🚀 [More](#more)
 
-<a href="https://youtu.be/kmy_YNhl0mw" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
 Built with React Native for handling the user interface, Google Maps for rendering maps with directions, stripe for
-handling payments, serverless Postgres for managing databases, and styled with TailwindCSS, Uber Clone is a perfect
+handling payments, serverless Postgres for managing databases, and styled with TailwindCSS, Ride Sharing is a perfect
 mobile app. The primary goal is to demonstrate how to develop full-stack mobile applications to showcase the developer's
 skills in a unique manner that creates a lasting impact.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+**
-members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -101,8 +95,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/uber.git
-cd uber
+git clone https://github.com/SAIKRISHNA2005/ride-sharing.git
+cd ride-sharing
 ```
 
 **Installation**
